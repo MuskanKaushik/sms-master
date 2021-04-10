@@ -1,1 +1,1 @@
-# sms-master
+School Management System
